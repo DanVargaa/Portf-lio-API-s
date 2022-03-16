@@ -1,7 +1,7 @@
 
 # Daniel Vargas Ribeiro
 
-![perfil](https://github.com/DanVargaa/Portfolio-APIs/blob/main/Imagem1.jpg)
+### ![perfil](https://github.com/DanVargaa/Portfolio-APIs/blob/main/Imagem1.jpg)
  
 
 ## 1. Introdução
