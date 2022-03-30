@@ -10,8 +10,8 @@ Para resolver o problema criamos uma aplicação mobile, onde a aplicação calc
 Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
 ### Vídeo De Entrega
+[![entrega](https://img.youtube.com/vi/Vbet4k0QA9M/default.jpg)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
 
-[![entrega](https://img.youtube.com/vi/Vbet4k0QA9M.jpg/default.jpg)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
 
 ### Tecnologias Utilizadas
 
