@@ -11,7 +11,7 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
 ### Vídeo De Entrega
 
-[![entrega](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
+[![entrega](https://imgur.com/a/MhvBe39)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
 
 ### Tecnologias Utilizadas
 
