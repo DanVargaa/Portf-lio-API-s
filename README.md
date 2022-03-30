@@ -1,16 +1,5 @@
 
-# Daniel Vargas Ribeiro
-
-###### ![perfil](https://github.com/DanVargaa/Portfolio-APIs/blob/main/Imagem1.jpg)
- 
-
-## 1. Introdução
-
-Meu nome é Daniel Vargas Ribeiro, estou atualmente realizando um curso superior na área de Tecnologia em Análise e desenvolvimento de sistemas. Minha formação atual é no Ensino Médio e em cursos na área de desenvolvimento voltados para área de Front-End. Possuo também alguns projetos a parte que realizei em meu github.
-
-### 2. Meus Projetos
-
-### 2.1 Energy Control 2019-2 
+### Energy Control 2020-1 
 
 Projeto orientado pelo professor Jean Carlos Lourenço Costa, e realizado pelos alunos Edryan Maciel, Daniel Vargas, Kauan Souza, Kevin Melo, Leonardo Henrique e Luiz Miguel. 
 
