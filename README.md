@@ -12,6 +12,10 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 ### Vídeo De Entrega
 [![entrega](https://img.youtube.com/vi/Vbet4k0QA9M/default.jpg)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
 
+### Arquitetura
+
+![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/Arquitetura.jpeg)
+
 
 ### Tecnologias Utilizadas
 
