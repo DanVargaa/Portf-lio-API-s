@@ -23,8 +23,8 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 Após o cadastro de algum equipamento eletrônico você poderia abrir o equipamento individualmente para calcular a média de energia que ele gastaria por tempo. O contador do aplicativo calcula a quantidade de watts que é gasto por segundo.
 
 ## Tela referente a calcular o valor
-
-![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/calculo_do_valor.png)
+1
+<img href="https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/calculo_do_valor.png" height="200">
 
 Essa tela exibe o cálculo realizado da quantidade de watts gasto pela lâmpada e faz a conversão no valor em reais que foi gasto pelo equipamento específico.
 
