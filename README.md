@@ -1,5 +1,5 @@
 
-### Energy Control 2020-1 
+## Energy Control 2020-1 
 
 Projeto orientado pelo professor Jean Carlos Lourenço Costa, e realizado pelos alunos Edryan Maciel, Daniel Vargas, Kauan Souza, Kevin Melo, Leonardo Henrique e Luiz Miguel. 
 
@@ -9,28 +9,28 @@ Para resolver o problema criamos uma aplicação mobile, onde a aplicação calc
 
 Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
-### Vídeo De Entrega
+## Vídeo De Entrega
 [![entrega](https://img.youtube.com/vi/Vbet4k0QA9M/default.jpg)](https://www.youtube.com/watch?v=Vbet4k0QA9M)
 
-### Arquitetura
+## Arquitetura
 
 ![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/Arquitetura.jpeg)
 
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Kodular, Arduino e AirTable. Kodular plataforma de criação de apps, utilizada para programar e testar o aplicativo. Arduino utilizado para simulação com eletrodoméstico. AirTable utilizado para organização do projeto.
 
-### Contribuições Pessoais
+## Contribuições Pessoais
 
 Minha contribuição para o projeto foi na programação do Back-end e no design do aplicativo. Aplicativo que foi feito pela plataforma do API Inventor, ajudei na criação de interfaces e os designs do aplicativo e na programação do aplicativo que foi feito pelo Kodular com programação em blocos com foco na parte de calculo da taxa de energia com o gasto por hora do equipamento.
 
-### Hard Skills
+## Hard Skills
 
 Programação em blocos – Sei fazer com autonomia;
 Manusear a plataforma Kodular – Sei fazer com autonomia;
 
-### Soft Skills
+## Soft Skills
 
 Autonomia;
 Comunicação;
