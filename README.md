@@ -20,7 +20,7 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/lig_lamp.png" height="600" width="325">
 
-Após o cadastro de algum equipamento eletrônico você poderia abrir o equipamento individualmente para calcular a média de energia que ele gastaria por tempo. O contador do aplicativo calcula a quantidade de watts que é gasto por segundo.
+Após o cadastro de algum equipamento eletrônico você poderia abrir o equipamento individualmente para calcular a média de energia que ele gastaria por tempo. O contador do aplicativo calcula a quantidade de watts que é gasto por segundo. Caso a pessoa possua arduino é possível conectar ele no dispositivo móvel e usar os botões de conectar/desconectar para fazer o cálculo da mesma forma.
 
 ## Tela referente a calcular o valor
 
