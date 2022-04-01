@@ -16,6 +16,9 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
 ![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/Arquitetura.jpeg)
 
+## Tela referente a ligar eletrônico
+
+![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/lig_lamp.png)
 
 ## Tecnologias Utilizadas
 
