@@ -14,7 +14,7 @@ Github do Projeto: https://github.com/kevingabrielmelo/ENERGY-CONTROL
 
 ## Arquitetura
 
-![arquitetura](https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/Arquitetura.jpeg)
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Primeiro-API-2020-1/Arquitetura.jpeg" height="600" width="600">
 
 ## Tela referente a ligar eletrônico
 
@@ -39,11 +39,15 @@ Minha contribuição para o projeto foi na programação do Back-end e no design
 ## Hard Skills
 
 Programação em blocos – Sei fazer com autonomia;
+
 Manusear a plataforma Kodular – Sei fazer com autonomia;
 
 ## Soft Skills
 
 Autonomia;
+
 Comunicação;
+
 Positividade;
+
 Criatividade;
