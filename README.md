@@ -42,6 +42,8 @@ Programação em blocos – Sei fazer com autonomia;
 
 Manusear a plataforma Kodular – Sei fazer com autonomia;
 
+AirTable - Sei usar com autonomia;
+
 ## Soft Skills
 
 Autonomia;
