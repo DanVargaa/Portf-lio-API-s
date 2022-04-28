@@ -15,7 +15,7 @@ Estar entre as empresas nacionais que dominam a alta tecnologia é para a IACIT 
 
 Projeto Solicitado pela empresa IACIT e realizado pelos alunos Edryan Maciel, Cauê Bittencourt, Daniel Vargas, Kauan Souza, Kevin Melo, Salvador Lopes e Luiz Miguel. 
 
-O projeto foi um tema proposto pela empresa IACIT, o projeto tinha como propósito criar uma aplicação web que possibilitasse a monitoração de caminhoneiros. 
+O projeto foi um tema proposto pela empresa IACIT, levando em conta que o Brasil é um país muito grande, tem se tornado um problema para empresas o monitoramento de jornada de todos seus motoristas , o projeto tinha como propósito criar uma aplicação web que possibilitasse a monitoração de caminhoneiros. 
 
 Para resolver o problema criamos uma aplicação web onde cada caminhoneiro possuía um usuário com seus dados e com seu veículo e durante seu expediente de trabalho fizemos um botão para iniciar o expediente, um para horário de almoço ou pausas e um para finalizar seu expediente. E um controle para o administrador para que ele definisse a carga do cliente, o destino e pudesse fazer o monitoramento com base em buscas.
 
