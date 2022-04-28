@@ -1,6 +1,18 @@
 
 ## Truck-In 2020-2 
 
+## Empresa 
+
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
+
+Nossa empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
+
+Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, no mais puro estado da arte.
+
+Estar entre as empresas nacionais que dominam a alta tecnologia é para a IACIT uma grande inspiração. Já são mais de 30 anos de experiência, que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. De lá para cá, nossa empresa é impulsionada pelos constantes esforços para ampliar nossas referências e conquistar novos mercados.
+
+## Projeto
+
 Projeto Solicitado pela empresa IACIT e realizado pelos alunos Edryan Maciel, Cauê Bittencourt, Daniel Vargas, Kauan Souza, Kevin Melo, Salvador Lopes e Luiz Miguel. 
 
 O projeto foi um tema proposto pela empresa IACIT, o projeto tinha como propósito criar uma aplicação web que possibilitasse a monitoração de caminhoneiros. 
