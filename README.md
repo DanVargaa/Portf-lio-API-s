@@ -24,6 +24,12 @@ Ao fazer login com as credenciais de administrador, você é redirecionado para 
 
 Tela onde administrador pode cadastrar um trabalho para determinado motorista, veículo e pacote. Podendo também definir um título que pode ser usado depois para consulta e o nome do local final.
 
+## Tela de Menu do Caminhoneiro
+
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Menu%20usu%C3%A1rio.png" height="600" width="1000">
+
+Tela onde o caminhoneiro faz pode 
+
 ## Tecnologias utilizadas
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/tecnologias.png" height="600" width="600">
