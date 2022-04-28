@@ -12,6 +12,17 @@ Meu nome é Daniel Vargas Ribeiro, estou atualmente realizando um curso superior
 
 Em relação a experiência profissional, eu tive meu primeiro estágio quando estava no 3° semestre em meu curso, realizado na empresa GeoPixel na área de suporte técnico. Na empresa eu atuava com banco de dados PostgreSQL, atendendo as solicitações que os clientes mandavam. Meu segundo estágio ocorreu quando eu estava no 4° semestre, atuei na empresa Ctrl+Play onde eu dava aulas experimentais de programação para o público de 7 a 17 anos com as ferramentas disponibilizadas pela empresa. Por fim estou agora estagiando na empresa DeMaria iniciei no fim do 4° semestre em meu curso, minha função é na área de suporte técnico atendendo as solicitações de clientes, sendo por acesso remoto, fazendo manutenções no software da empresa ou no banco de dados do cliente.
 
+
+### 1.2 Principais Conhecimentos
+
+1. HTML
+2. CSS
+3. REACTJS
+4. JAVASCRIPT
+5. TYPESCRIPT
+6. NODEJS
+7. C#
+
 ### 2. Meus Projetos
 
 <a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Primeiro-API-2020-1'> 1° Semestre 2020-1</a>
