@@ -40,5 +40,7 @@ No 2 semestre de 2022, foi realizado uma aplicação web solicitada pela empresa
 ### 3. Contatos
 
 Linkedin : https://www.linkedin.com/in/daniel-vargas-8b806a184/
+
 Email : danielvgh@hotmail.com
+
 Github : https://github.com/DanVargaa
