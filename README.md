@@ -29,7 +29,7 @@ Em relação a experiência profissional, eu tive meu primeiro estágio quando e
 
 <a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Primeiro-API-2020-1'> 1° Semestre 2020-1</a>
 
-No 1 semestre de 2020, foi realizado um projeto mobile voltado para o tema de controle de energia de aparelhos elétricos. O projeto foi orientado pelo professor Jean e com entregas dividas em 4 etapas.
+No 1 semestre de 2020, foi realizado um projeto mobile voltado para o tema de controle de energia de aparelhos elétricos. O projeto foi orientado pelo professor Jean sendo divido em 4 entregas.
 
 ### 2.2 Segundo Semestre
 
