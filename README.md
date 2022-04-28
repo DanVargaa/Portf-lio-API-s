@@ -14,13 +14,13 @@ Github do Projeto: https://github.com/DanVargaa/Truck-in/
 
 ##  Tela Principal de Administrador
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Tela%20adm.png" height="600" width="325">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Tela%20adm.png" height="600" width="1000">
 
 Ao fazer login com as credenciais de administrador, você é redirecionado para essa página. A partir dessa tela é possível fazer toda manutenção necessária em relação aos caminhoneiros, a suas viagens e a monitoração com base em buscas.
 
 ## Tela de Cadastro de trabalho
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Cadastro%20de%20trabalho.png" height="600" width="325">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Cadastro%20de%20trabalho.png" height="600" width="1000">
 
 Tela onde administrador pode cadastrar um trabalho para determinado motorista, veículo e pacote. Podendo também definir um título que pode ser usado depois para consulta e o nome do local final.
 
