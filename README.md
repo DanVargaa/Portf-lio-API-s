@@ -31,15 +31,23 @@ Tela onde administrador pode cadastrar um trabalho para determinado motorista, v
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Back-end e no design do aplicativo. Aplicativo que foi feito pela plataforma do Kodular, ajudei na criação de interfaces, os designs do aplicativo e na programação do aplicativo que foi realizada pelo Kodular com programação em blocos, com foco na parte de calculo da taxa de energia com o gasto por hora do equipamento. Minhas softskills desenvolvidas no grupo foram importantes para o desenvolvimento do projeto, pois como foi meu primeiro contato com programação em blocos precisei buscar conhecimento sozinho, além da comunicação com os integrantes do grupo que foram essenciais para organização. Em relação ao desenvolvimento de minhas softskills, me dediquei a contribuir com muitas ideias de como realizar o Front-End do projeto e estive sempre motivando minha equipe.
+Minha contribuição para o projeto foi na programação do Front-end do trabalho, fiquei junto de Luiz Miguel responsável por quase todas as telas do front-end, o front-end feito foi baseado em HTML, CSS e JavaScript. Fomos fazendo o front-end com oque haviamos planejado no figma anteriormente, em relação ao back-end consegui ajudar na relação de controlamento das telas, fiz a parte do contador de tempo responsável pela hora de trabalho, almoço e hora extra dos caminhoneiros. Em relação as softskills desenvolvidas, posso dizer que aumentei fortemente minha entrega de resultados e a comunicação adjunta da dedicação de todos foi essencial para finalizarmos tudo dentro dos prazos.
 
 ## Hard Skills
 
-Programação em blocos – Sei fazer com autonomia;
+Visual Studio - Sei fazer com autonomia.
 
-Manusear a plataforma Kodular – Sei fazer com autonomia;
+IntelliJ - Sei fazer com autonomia.
 
-AirTable - Sei usar com autonomia;
+HTML - Sei fazer com autonomia.
+
+CSS - Sei fazer com autonomia.
+
+JavaScript - Sei fazer com autonomia.
+
+Java - Sei fazer com autonomia.
+
+Figma - Sei fazer com autonomia.
 
 ## Soft Skills
 
@@ -47,6 +55,8 @@ Autonomia;
 
 Comunicação;
 
-Positividade;
-
 Criatividade;
+
+Dedicação;
+
+Entrega de Resultados;
