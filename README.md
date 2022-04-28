@@ -37,3 +37,8 @@ No 1 semestre de 2020, foi realizado um projeto mobile voltado para o tema de co
 
 No 2 semestre de 2022, foi realizado uma aplicação web solicitada pela empresa IACIT. A aplicação tinha o tema voltado para monitoramento de caminhoneiros, tendo como principais pontos tempo trabalhado, veículo de transporte, pacote e destino. O projeto foi orientado pelo professor Walmir, e com o projeto divido em 4 entregas.
 
+### 3. Contatos
+
+Linkedin : https://www.linkedin.com/in/daniel-vargas-8b806a184/
+Email : danielvgh@hotmail.com
+Github : https://github.com/DanVargaa
