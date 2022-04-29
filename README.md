@@ -29,13 +29,19 @@ Em relação a experiência profissional, eu tive meu primeiro estágio quando e
 
 <a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Primeiro-API-2020-1'> 1° Semestre 2020-1</a>
 
-No 1 semestre de 2020, foi realizado um projeto mobile voltado para o tema de controle de energia de aparelhos elétricos. O projeto foi orientado pelo professor Jean sendo divido em 4 entregas.
+No 1 semestre de curso, foi realizado um projeto mobile voltado para o tema de controle de energia de aparelhos elétricos. O projeto foi orientado pelo professor Jean sendo divido em 4 entregas.
 
 ### 2.2 Segundo Semestre
 
 <a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Segundo-API-2020-2'> 2° Semestre 2020-2</a>
 
-No 2 semestre de 2022, foi realizado uma aplicação web solicitada pela empresa IACIT. A aplicação tinha o tema voltado para monitoramento de caminhoneiros, tendo como principais pontos tempo trabalhado, veículo de transporte, pacote e destino. O projeto foi orientado pelo professor Walmir, e com o projeto divido em 4 entregas.
+No 2 semestre de curso, foi realizado uma aplicação web solicitada pela empresa IACIT. A aplicação tinha o tema voltado para monitoramento de caminhoneiros, tendo como principais pontos tempo trabalhado, veículo de transporte, pacote e destino. O projeto foi orientado pelo professor Walmir, e com o projeto divido em 4 entregas.
+
+### 2.2 Segundo Semestre
+
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Terceiro-API-2021-1'> 2° Semestre 2020-2</a>
+
+No 3 semestre de curso, foi realizado uma aplicação web solicitada pela empresa NessHealth. A aplicação tinha o tema voltado para ensino EAD criando uma plataforma onde fosse administrada pelos professores e que os alunos tivessem fácil acesso ao conteúdo e com um certificado no fim de seus cursos.
 
 ### 3. Contatos
 
