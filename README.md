@@ -37,9 +37,9 @@ No 1 semestre de curso, foi realizado um projeto mobile voltado para o tema de c
 
 No 2 semestre de curso, foi realizado uma aplicação web solicitada pela empresa IACIT. A aplicação tinha o tema voltado para monitoramento de caminhoneiros, tendo como principais pontos tempo trabalhado, veículo de transporte, pacote e destino. O projeto foi orientado pelo professor Walmir, e com o projeto divido em 4 entregas.
 
-### 2.2 Segundo Semestre
+### 2.3 Terceiro Semestre
 
-<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Terceiro-API-2021-1'> 2° Semestre 2020-2</a>
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Terceiro-API-2021-1'> 3° Semestre 2021-1</a>
 
 No 3 semestre de curso, foi realizado uma aplicação web solicitada pela empresa NessHealth. A aplicação tinha o tema voltado para ensino EAD criando uma plataforma onde fosse administrada pelos professores e que os alunos tivessem fácil acesso ao conteúdo e com um certificado no fim de seus cursos.
 
