@@ -1,67 +1,71 @@
 
-## Truck-In 2020-2 
+## nLearning 2021-1 
 
 ## Empresa 
 
-A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
-
-Nossa empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
-
-Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, no mais puro estado da arte.
-
-Estar entre as empresas nacionais que dominam a alta tecnologia é para a IACIT uma grande inspiração. Já são mais de 30 anos de experiência, que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. De lá para cá, nossa empresa é impulsionada pelos constantes esforços para ampliar nossas referências e conquistar novos mercados.
+A NessHealth é um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores
 
 ## Projeto
 
-Projeto Solicitado pela empresa IACIT e realizado pelos alunos Edryan Maciel, Cauê Bittencourt, Daniel Vargas, Kauan Souza, Kevin Melo, Salvador Lopes e Luiz Miguel. 
+Projeto Solicitado pela empresa NessHealth e realizado pelos alunos Edryan Maciel, Wagner Kenji, Daniel Vargas, Kauan Souza, Kevin Melo, José Alberto e Luiz Miguel. 
 
-O projeto foi um tema proposto pela empresa IACIT, levando em conta que o Brasil é um país muito grande, tem se tornado um problema para empresas o monitoramento de jornada de todos seus motoristas , o projeto tinha como propósito criar uma aplicação web que possibilitasse a monitoração de caminhoneiros. 
+O projeto foi um tema proposto pela empresa NessHealth foi relacionado a ensino EAD, eles solicitaram uma aplicação web que contesse um painel para que os professores pudessem realizar a manutenção de seus cursos e de seus alunos e para os alunos um local para realizar a organização, para visualizar seus cursos e para emitir um certificado. 
 
-Para resolver o problema criamos uma aplicação web onde cada caminhoneiro possuía um usuário com seus dados e com seu veículo e durante seu expediente de trabalho fizemos um botão para iniciar o expediente, um para horário de almoço ou pausas e um para finalizar seu expediente. E um controle para o administrador para que ele definisse a carga do cliente, o destino e pudesse fazer o monitoramento com base em buscas.
+Para resolver o problema criamos uma aplicação web com um chatbot de atendimento na tela inicial para auxiliar os usuários, já dentro da aplicação, começando pelos alunos fizemos o método de organização com um calendário, onde o professor colocaria as tarefas a serem realizadas e as provas e o aluno poderia editar seu próprio calendário, em relação aos cursos realizamos uma página para exibir todos os cursos disponíveis e qual o material de cada um deles. E ao término de cada curso era possível emitir um certificado. Na plataforma do professor fizemos uma área para realizar a manutenção de seus cursos onde era possível mexer no conteúdo, já na área referente aos alunos o professor possui a área de avaliação de alunos e a lista de alunos por curso. 
 
-Github do Projeto: https://github.com/DanVargaa/Truck-in/
+Github do Projeto: https://github.com/kevingabrielmelo/nLearning-Team2
 
 ## Vídeo De Entrega
-[![entrega](https://img.youtube.com/vi/ZEGnL8eSj20/default.jpg)](https://www.youtube.com/watch?v=ZEGnL8eSj20)
+[![entrega](https://img.youtube.com/vi/hcwPLhTX7m0/default.jpg)](https://www.youtube.com/watch?v=hcwPLhTX7m0)
 
-##  Tela Principal de Administrador
+##  Tela Inicial
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Tela%20adm.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Chatbot.png" height="600" width="1000">
 
-Ao fazer login com as credenciais de administrador, você é redirecionado para essa página. A partir dessa tela é possível fazer toda manutenção necessária em relação aos caminhoneiros, a suas viagens e a monitoração com base em buscas.
+Ao acessar a tela inicial do aplicativo era uma área voltada para divulgação da plataforma com um chatbot para ajuda dos usuários.
 
-## Tela de Cadastro de trabalho
+## Tela para Organização de aluno e professor
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Cadastro%20de%20trabalho.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/calendario%20de%20aulas.png" height="600" width="1000">
 
-Tela onde administrador pode cadastrar um trabalho para determinado motorista, veículo e pacote. Podendo também definir um título que pode ser usado depois para consulta e o nome do local final.
+Tela onde ambos professor e aluno podem mexer em seus calendários, o professor pode adicionar tasks que não são alteradas pelos alunos como data de avaliação ou entrega de atividades. Já os alunos podem utilizar esse calendário para definir seus horários de estudo.
 
-## Tela de Menu do Caminhoneiro
+## Tela de Cursos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Menu%20usu%C3%A1rio.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png" height="600" width="1000">
 
-Tela onde o caminhoneiro vai após login. Local onde ele fara a manutenção de seus serviços conforme os for recebendo da empresa e pode monitorar seus serviços ja feitos.
+Tela onde são exibidos os cursos para os alunos, é onde os alunos podem escolher os cursos para realizar e continuar os cursos que já possuem, tendo uma introdução sobre o curso e qual o professor que estará ministrando o curso.
 
-## Tela de Sessão de Trabalho
+## Tela de Conteúdo
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Sess%C3%A3o%20de%20trabalho.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Material%20de%20curso.png" height="600" width="1000">
 
-Tela onde será realizada a sessão de trabalha feita pelo caminhoneiro, ele irá colocar o horário que estará trabalhando, o horário de almoço e o fim de seu expediente levando em conta que cada hora a partir de 22h é contada como hora extra em vermelho.
+Tela onde os alunos realizam seus cursos, nesse ambiente ficam os materiais para estudo e atividades a serem realizadas pelos alunos, o formato de exibição é em PDF podendo conter videoaulas para serem assistidas. Após a conclusão de todo conteúdo do curso, o aluno poderá acessar a prova do curso para que possa emitir o certificado, prova que será avaliada pelo professor do curso.
 
 ## Tela de Serviços
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/Servi%C3%A7o.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Certificado.png" height="600" width="1000">
 
-Tela onde o caminhoneiro pode ver os serviços enviados pela empresa, exibindo os principais dados localização, carga e o veículo que estará utilizando para realizar o transporte.
+Tela de emissão de certificado de curso, após a avaliação da prova pelo professor caso o aluno tenha obtido a nota mínima para passar, é disponibilizado um botão dentro da tela do curso para emissão do certificado.
+
+## Tela de Manutenção de cursos
+
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/visualiza%C3%A7%C3%A3o%20professor.png" height="600" width="1000">
+
+Tela onde o professor ao acessar o curso que ministra, pode editar o conteúdo dele sendo adicionando mais conteúdo ou retirando conteúdo antigo. O professor possui uma área com a lista de todos os alunos do curso e ele pode tanto adicionar um novo aluno, quanto retirar um aluno de seu curso.
 
 ## Tecnologias utilizadas
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2021-2/tecnologias.png" height="600" width="600">
-
+1. Java
+2. HTML
+3. CSS
+4. JavaScript
+5. PostgreSQL
+6. Bootstrap
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Front-end do trabalho, fiquei junto de Luiz Miguel responsável por quase todas as telas do front-end, o front-end feito foi baseado em HTML, CSS e JavaScript. Fomos fazendo o front-end com oque haviamos planejado no figma anteriormente, em relação ao back-end consegui ajudar na relação de controlamento das telas, fiz a parte do contador de tempo responsável pela hora de trabalho, almoço e hora extra dos caminhoneiros. Em relação as softskills desenvolvidas, posso dizer que aumentei fortemente minha entrega de resultados e a comunicação adjunta da dedicação de todos foi essencial para finalizarmos tudo dentro dos prazos.
+Minha contribuição para o projeto foi na programação do Front-end do trabalho, atuei no Front-end junto de Wagner Kenji e Luiz Miguel, fizemos primeiro um esboço no figma do que seriam as telas e apresentamos para a NessHealth. Fomos fazendo o front-end com oque haviamos planejado no figma anteriormente portanto fizemos algums alterações que foram necessárias com o decorrer do projeto, alterações que solicitamos aprovação da NessHealth. Em relação as softskills desenvolvidas, desenvolvi bem minha empatia com os integrantes do grupo que tiveram algumas dificuldades durante as tasks que fizemos, minha autonomia foi desenvolvida bem pois tivemos alguns momentos de atraso e foi necessário que não nos atrasassemos, a comunicação do grupo foi fundamental para que conseguissemos alinhar tudo até o fim do projeto que foi um sucesso.
 
 ## Hard Skills
 
@@ -75,18 +79,16 @@ CSS - Sei fazer com autonomia.
 
 JavaScript - Sei fazer com autonomia.
 
-Java - Sei fazer com autonomia.
-
 Figma - Sei fazer com autonomia.
 
 ## Soft Skills
 
-Autonomia;
+Empatia;
 
 Comunicação;
 
 Criatividade;
 
-Dedicação;
+Autonomia;
 
 Entrega de Resultados;
