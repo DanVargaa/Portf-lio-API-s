@@ -56,8 +56,11 @@ Tela onde o caminhoneiro pode ver os serviços enviados pela empresa, exibindo o
 
 ## Tecnologias utilizadas
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/tecnologias.png" height="600" width="600">
-
+1. Java
+2. PostgreSQL
+3. HTML
+4. CSS
+5. JavaScript
 
 ## Contribuições Pessoais
 
