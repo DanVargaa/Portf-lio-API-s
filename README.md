@@ -30,7 +30,9 @@ Essa tela exibe o cálculo realizado da quantidade de watts gasto pela lâmpada 
 
 ## Tecnologias Utilizadas
 
-Kodular, Arduino e AirTable. Kodular plataforma de criação de apps, utilizada para programar e testar o aplicativo. Arduino utilizado para simulação com eletrodoméstico. AirTable utilizado para organização do projeto.
+1. Kodular
+2. Arduino
+3. AirTable
 
 ## Contribuições Pessoais
 
