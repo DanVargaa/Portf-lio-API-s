@@ -15,29 +15,30 @@ Para resolver o problema criamos uma aplicação web com uma interface de login 
 
 Github do Projeto: https://github.com/Salitop/HandbookPlane_4ADS-A
 
-##  Tela Inicial
+##  Menu Inicial
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Chatbot.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/menu%20inicial.png" height="300" width="600">
 
-Ao acessar a tela inicial do aplicativo era uma área voltada para divulgação da plataforma com um chatbot para ajuda dos usuários.
+Ao acessar o menu inicial do aplicativo o administrador já iria se deparar com suas principais funções.
 
-## Tela para Organização de aluno e professor
+## Menu de Blocos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/calendario%20de%20aulas.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/menu%20de%20blocos.png"  height="300" width="600">
 
-Tela onde ambos professor e aluno podem mexer em seus calendários, o professor pode adicionar tasks que não são alteradas pelos alunos como data de avaliação ou entrega de atividades. Já os alunos podem utilizar esse calendário para definir seus horários de estudo.
+O menu de blocos seria a tela em que o usuário por sua vez poderia fazer a manutenção dos blocos do sistema, seja criando um bloco novo, realizando a revisão de um bloco que foi alterado ou tendo uma lista de todos blocos cadastrados.
+
+## Menu de traços
+
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20tra%C3%A7os.png" height="300" width="600">
+
+O menu de traços seria a tela em que o usuário por sua vez poderia fazer a manutenção dos traços do sistema, seja criando um traço novo, realizando a visualização dos traços, emitindo um relatório dos traços do sistema com filtros e podendo verificar o histórico dos traços modificados do sistema.
 
 ## Tela de Cursos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png"  height="300" width="600">
 
 Tela onde são exibidos os cursos para os alunos, é onde os alunos podem escolher os cursos para realizar e continuar os cursos que já possuem, tendo uma introdução sobre o curso e qual o professor que estará ministrando o curso.
 
-## Tela de Conteúdo
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Material%20de%20curso.png" height="600" width="1000">
-
-Tela onde os alunos realizam seus cursos, nesse ambiente ficam os materiais para estudo e atividades a serem realizadas pelos alunos, o formato de exibição é em PDF podendo conter videoaulas para serem assistidas. Após a conclusão de todo conteúdo do curso, o aluno poderá acessar a prova do curso para que possa emitir o certificado, prova que será avaliada pelo professor do curso.
 
 ## Tela de Serviços
 
