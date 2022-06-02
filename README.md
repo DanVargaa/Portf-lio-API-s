@@ -1,52 +1,91 @@
 
-# Daniel Vargas Ribeiro
+## HandBookPlane 2021-2
 
-###### ![perfil](https://github.com/DanVargaa/Portfolio-APIs/blob/main/Imagem1.jpg)
- 
+## Empresa 
 
-## 1. Introdução
+A Embraer é uma empresa brasileira multinacional voltada para aviação, empresa que tem grande reconhecimento por iniciar diversos projetos nessa área, sendo um deles uma nova linha de aeronaves sustentaveis, com planos de que até 2050 atinjam a meta de zero emissões líquidas de carbono até 2050.
 
-Meu nome é Daniel Vargas Ribeiro, estou atualmente realizando um curso superior na área de Tecnologia em Análise e desenvolvimento de sistemas. Minha formação atual é no Ensino Médio e em cursos na área de desenvolvimento voltados para área de Front-End. Possuo também alguns projetos a parte que realizei em meu github.
+## Projeto
 
-### 1.1 Experiência Profissional
+Projeto Solicitado pela empresa Embraer e realizado pelos alunos Edryan Maciel, Daniel Vargas, Kevin Melo e Luiz Miguel. 
 
-Em relação a experiência profissional, eu tive meu primeiro estágio quando estava no 3° semestre em meu curso, realizado na empresa GeoPixel na área de suporte técnico. Na empresa eu atuava com banco de dados PostgreSQL, atendendo as solicitações que os clientes mandavam. Meu segundo estágio ocorreu quando eu estava no 4° semestre, atuei na empresa Ctrl+Play onde eu dava aulas experimentais de programação para o público de 7 a 17 anos com as ferramentas disponibilizadas pela empresa. Por fim estou agora estagiando na empresa DeMaria iniciei no fim do 4° semestre em meu curso, minha função é na área de suporte técnico atendendo as solicitações de clientes, sendo por acesso remoto, fazendo manutenções no software da empresa ou no banco de dados do cliente.
+O projeto foi um tema proposto pela empresa Embraer foi relacionado a manuais de aeronaves, eles solicitaram uma aplicação web que contesse um painel para fosse possível realizar um controle dos manuais de aeronaves, sendo possivel fazer alterações nos manuais, exclusões e adicionar novos manuais, os manuais seriam controlados por um administrador e acessados pelos proprietários das aeronaves. 
 
+Para resolver o problema criamos uma aplicação web com uma interface de login para cliente e administrador, onde após entrarem no sistema seriam redirecionados para a aplicação. Dentro da aplicação o foco principal era o administrador, já que o cliente estaria apenas visualizando os dados. Em relação as funções do administrador temos a parte de blocos, traços e codelist, os blocos são a área que controla cada manual modificado e que possui uma lista de todas as versões dos manuais sendo possível também adicionar uma revisão com oque foi modificado, já os traços ele realiza uma organização de blocos de acordo com os padrões passados pela empresa, ele define uma classificação para os blocos que são agrupados em um traço específico, o codelist seria uma junção dos blocos com os traços ele apresenta a relação de bloco com traços, podendo tanto visualizar os documentos quanto apagar o bloco e traço específico.
 
-### 1.2 Principais Conhecimentos
+Github do Projeto: https://github.com/Salitop/HandbookPlane_4ADS-A
 
-1. HTML
-2. CSS
-3. REACTJS
-4. JAVASCRIPT
-5. TYPESCRIPT
-6. NODEJS
-7. C#
+##  Tela Inicial
 
-### 2. Meus Projetos
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Chatbot.png" height="600" width="1000">
 
-### 2.1 Primeiro Semestre
+Ao acessar a tela inicial do aplicativo era uma área voltada para divulgação da plataforma com um chatbot para ajuda dos usuários.
 
-<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Primeiro-API-2020-1'> 1° Semestre 2020-1</a>
+## Tela para Organização de aluno e professor
 
-No 1 semestre de curso, foi realizado um projeto mobile voltado para o tema de controle de energia de aparelhos elétricos. O projeto foi orientado pelo professor Jean sendo divido em 4 entregas.
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/calendario%20de%20aulas.png" height="600" width="1000">
 
-### 2.2 Segundo Semestre
+Tela onde ambos professor e aluno podem mexer em seus calendários, o professor pode adicionar tasks que não são alteradas pelos alunos como data de avaliação ou entrega de atividades. Já os alunos podem utilizar esse calendário para definir seus horários de estudo.
 
-<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Segundo-API-2020-2'> 2° Semestre 2020-2</a>
+## Tela de Cursos
 
-No 2 semestre de curso, foi realizado uma aplicação web solicitada pela empresa IACIT. A aplicação tinha o tema voltado para monitoramento de caminhoneiros, tendo como principais pontos tempo trabalhado, veículo de transporte, pacote e destino. O projeto foi orientado pelo professor Walmir, e com o projeto divido em 4 entregas.
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png" height="600" width="1000">
 
-### 2.3 Terceiro Semestre
+Tela onde são exibidos os cursos para os alunos, é onde os alunos podem escolher os cursos para realizar e continuar os cursos que já possuem, tendo uma introdução sobre o curso e qual o professor que estará ministrando o curso.
 
-<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Terceiro-API-2021-1'> 3° Semestre 2021-1</a>
+## Tela de Conteúdo
 
-No 3 semestre de curso, foi realizado uma aplicação web solicitada pela empresa NessHealth. A aplicação tinha o tema voltado para ensino EAD criando uma plataforma onde fosse administrada pelos professores e que os alunos tivessem fácil acesso ao conteúdo e com um certificado no fim de seus cursos.
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Material%20de%20curso.png" height="600" width="1000">
 
-### 3. Contatos
+Tela onde os alunos realizam seus cursos, nesse ambiente ficam os materiais para estudo e atividades a serem realizadas pelos alunos, o formato de exibição é em PDF podendo conter videoaulas para serem assistidas. Após a conclusão de todo conteúdo do curso, o aluno poderá acessar a prova do curso para que possa emitir o certificado, prova que será avaliada pelo professor do curso.
 
-Linkedin : https://www.linkedin.com/in/daniel-vargas-8b806a184/
+## Tela de Serviços
 
-Email : danielvgh@hotmail.com
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Certificado.png" height="600" width="1000">
 
-Github : https://github.com/DanVargaa
+Tela de emissão de certificado de curso, após a avaliação da prova pelo professor caso o aluno tenha obtido a nota mínima para passar, é disponibilizado um botão dentro da tela do curso para emissão do certificado.
+
+## Tela de Manutenção de cursos
+
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/visualiza%C3%A7%C3%A3o%20professor.png" height="600" width="1000">
+
+Tela onde o professor ao acessar o curso que ministra, pode editar o conteúdo dele sendo adicionando mais conteúdo ou retirando conteúdo antigo. O professor possui uma área com a lista de todos os alunos do curso e ele pode tanto adicionar um novo aluno, quanto retirar um aluno de seu curso.
+
+## Tecnologias utilizadas
+
+1. Java
+2. HTML
+3. CSS
+4. JavaScript
+5. MySQL
+6. Bootstrap
+
+## Contribuições Pessoais
+
+Minha contribuição para o projeto foi na programação do Front-end do trabalho, atuei no Front-end junto de Wagner Kenji e Luiz Miguel, fizemos primeiro um esboço no figma do que seriam as telas e apresentamos para a NessHealth. Fomos fazendo o front-end com oque haviamos planejado no figma anteriormente portanto fizemos algums alterações que foram necessárias com o decorrer do projeto, alterações que solicitamos aprovação da NessHealth. Em relação as softskills desenvolvidas, desenvolvi bem minha empatia com os integrantes do grupo que tiveram algumas dificuldades durante as tasks que fizemos, minha autonomia foi desenvolvida bem pois tivemos alguns momentos de atraso e foi necessário que não nos atrasassemos, a comunicação do grupo foi fundamental para que conseguissemos alinhar tudo até o fim do projeto que foi um sucesso.
+
+## Hard Skills
+
+Visual Studio - Sei fazer com autonomia.
+
+IntelliJ - Sei fazer com autonomia.
+
+HTML - Sei fazer com autonomia.
+
+CSS - Sei fazer com autonomia.
+
+JavaScript - Sei fazer com autonomia.
+
+Figma - Sei fazer com autonomia.
+
+## Soft Skills
+
+Empatia;
+
+Comunicação;
+
+Criatividade;
+
+Autonomia;
+
+Entrega de Resultados;
