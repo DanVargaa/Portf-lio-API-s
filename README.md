@@ -63,7 +63,7 @@ Tela onde é exibido o codelist criado pela junção dos traços e blocos.
 1. Java - Utilizado para fazer o back-end do sistema.
 2. HTML - Utilizado para fazer o front-end do sistema.
 3. CSS - Utilizado para fazer o front-end do sistema.
-4. JavaScript - Utilizado para adicionar algumas funcionalidades de back-end dentro do front-end do sistema.
+4. JavaScript - Utilizado para adicionar funcionalidades no front-end do sistema.
 5. MySQL - Utilizado para fazer o controle de dados e para armazenar os manuais e usuários do sistema.
 
 ## Contribuições Pessoais
