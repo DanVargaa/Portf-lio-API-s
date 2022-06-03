@@ -30,13 +30,13 @@ Essa tela exibe o cálculo realizado da quantidade de watts gasto pela lâmpada 
 
 ## Tecnologias Utilizadas
 
-1. Kodular
-2. Arduino
-3. AirTable
+1. Kodular - Utilizado para realizar tanto o front-end quanto o back-end do sistema.
+2. Arduino - Utilizado para implementação de hardware no aplicativo, fazendo assim testes funcionais do cálculo de energia. 
+3. AirTable - Utilizado para organização da equipe, para divisão de tasks e controle de progresso.
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Back-end e no design do aplicativo. Aplicativo que foi feito pela plataforma do Kodular, ajudei na criação de interfaces, os designs do aplicativo e na programação do aplicativo que foi realizada pelo Kodular com programação em blocos, com foco na parte de calculo da taxa de energia com o gasto por hora do equipamento. Minhas softskills desenvolvidas no grupo foram importantes para o desenvolvimento do projeto, pois como foi meu primeiro contato com programação em blocos precisei buscar conhecimento sozinho, além da comunicação com os integrantes do grupo que foram essenciais para organização. Em relação ao desenvolvimento de minhas softskills, me dediquei a contribuir com muitas ideias de como realizar o Front-End do projeto e estive sempre motivando minha equipe.
+Minha contribuição para o projeto foi na programação do back-end e no design do aplicativo. Aplicativo que foi feito pela plataforma do Kodular, ajudei na criação de interfaces, os designs do aplicativo e na programação do aplicativo que foi realizada pelo Kodular com programação em blocos, com foco na parte de calculo da taxa de energia com o gasto por hora do equipamento. Minhas softskills desenvolvidas no grupo foram importantes para o desenvolvimento do projeto, pois como foi meu primeiro contato com programação em blocos precisei buscar conhecimento sozinho, além da comunicação com os integrantes do grupo que foram essenciais para organização. Em relação ao desenvolvimento de minhas softskills, me dediquei a contribuir com muitas ideias de como realizar o Front-End do projeto e estive sempre motivando minha equipe.
 
 ## Hard Skills
 
