@@ -1,7 +1,7 @@
 
 ## Truck-In 2020-2 
 
-## Empresa 
+## Empresa Parceira
 
 A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
 
