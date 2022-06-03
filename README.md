@@ -60,7 +60,7 @@ Tela onde o caminhoneiro pode ver os serviços enviados pela empresa, exibindo o
 2. PostgreSQL - Utilizado para realizar o controlde de dados do sistema.
 3. HTML - Utilizado para realizar o front-end do sistema.
 4. CSS - Utilizado para realizar o front-end do sistema.
-5. JavaScript - Utilizado para adicionar funcionalidades no front-end.
+5. JavaScript - Utilizado para adicionar funcionalidades no front-end do sistema.
 
 ## Contribuições Pessoais
 
