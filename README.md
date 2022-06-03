@@ -26,42 +26,42 @@ Ao acessar a tela inicial do aplicativo era uma área voltada para divulgação 
 
 ## Tela para Organização de aluno e professor
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/calendario%20de%20aulas.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/calendario%20de%20aulas.png" height="300" width="600">
 
 Tela onde ambos professor e aluno podem mexer em seus calendários, o professor pode adicionar tasks que não são alteradas pelos alunos como data de avaliação ou entrega de atividades. Já os alunos podem utilizar esse calendário para definir seus horários de estudo.
 
 ## Tela de Cursos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png" height="300" width="600">
 
 Tela onde são exibidos os cursos para os alunos, é onde os alunos podem escolher os cursos para realizar e continuar os cursos que já possuem, tendo uma introdução sobre o curso e qual o professor que estará ministrando o curso.
 
 ## Tela de Conteúdo
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Material%20de%20curso.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Material%20de%20curso.png" height="300" width="600">
 
 Tela onde os alunos realizam seus cursos, nesse ambiente ficam os materiais para estudo e atividades a serem realizadas pelos alunos, o formato de exibição é em PDF podendo conter videoaulas para serem assistidas. Após a conclusão de todo conteúdo do curso, o aluno poderá acessar a prova do curso para que possa emitir o certificado, prova que será avaliada pelo professor do curso.
 
 ## Tela de Serviços
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Certificado.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Certificado.png" height="300" width="600">
 
 Tela de emissão de certificado de curso, após a avaliação da prova pelo professor caso o aluno tenha obtido a nota mínima para passar, é disponibilizado um botão dentro da tela do curso para emissão do certificado.
 
 ## Tela de Manutenção de cursos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/visualiza%C3%A7%C3%A3o%20professor.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/visualiza%C3%A7%C3%A3o%20professor.png" height="300" width="600">
 
 Tela onde o professor ao acessar o curso que ministra, pode editar o conteúdo dele sendo adicionando mais conteúdo ou retirando conteúdo antigo. O professor possui uma área com a lista de todos os alunos do curso e ele pode tanto adicionar um novo aluno, quanto retirar um aluno de seu curso.
 
 ## Tecnologias utilizadas
 
-1. Java
-2. HTML
-3. CSS
-4. JavaScript
-5. PostgreSQL
-6. Bootstrap
+1. Java - Utilizado para fazer o back-end do sistema.
+2. HTML - Utilizado para fazer o front-end do sistema.
+3. CSS - Utilizado para fazer o front-end do sistema.
+4. JavaScript - Utilizado para trazer funcionalidades ao front-end.
+5. PostgreSQL - Utilizado para realizar o controle de dados do sistema.
+6. Bootstrap - Utilizado para trazer funcionalidades ao front-end.
 
 ## Contribuições Pessoais
 
@@ -69,9 +69,9 @@ Minha contribuição para o projeto foi na programação do Front-end do trabalh
 
 ## Hard Skills
 
-Visual Studio - Sei fazer com autonomia.
+Visual Studio - Sei usar com autonomia.
 
-IntelliJ - Sei fazer com autonomia.
+IntelliJ - Sei usar com autonomia.
 
 HTML - Sei fazer com autonomia.
 
@@ -79,7 +79,7 @@ CSS - Sei fazer com autonomia.
 
 JavaScript - Sei fazer com autonomia.
 
-Figma - Sei fazer com autonomia.
+Figma - Sei usar com autonomia.
 
 ## Soft Skills
 
