@@ -1,7 +1,7 @@
 
 ## HandBookPlane 2021-2
 
-## Empresa 
+## Empresa Parceira
 
 A Embraer é uma empresa brasileira multinacional voltada para aviação, empresa que tem grande reconhecimento por iniciar diversos projetos nessa área, sendo um deles uma nova linha de aeronaves sustentaveis, com planos de que até 2050 atinjam a meta de zero emissões líquidas de carbono até 2050.
 
