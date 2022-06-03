@@ -27,49 +27,54 @@ Ao acessar o menu inicial do aplicativo o administrador já iria se deparar com 
 
 O menu de blocos seria a tela em que o usuário por sua vez poderia fazer a manutenção dos blocos do sistema, seja criando um bloco novo, realizando a revisão de um bloco que foi alterado ou tendo uma lista de todos blocos cadastrados.
 
-## Menu de traços
+## Menu de Traços
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20tra%C3%A7os.png" height="300" width="600">
 
 O menu de traços seria a tela em que o usuário por sua vez poderia fazer a manutenção dos traços do sistema, seja criando um traço novo, realizando a visualização dos traços, emitindo um relatório dos traços do sistema com filtros e podendo verificar o histórico dos traços modificados do sistema.
 
-## Tela de Cursos
+## Cadastro de Blocos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/cursos.png"  height="300" width="600">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20blocos.png"  height="300" width="600">
 
-Tela onde são exibidos os cursos para os alunos, é onde os alunos podem escolher os cursos para realizar e continuar os cursos que já possuem, tendo uma introdução sobre o curso e qual o professor que estará ministrando o curso.
+Tela onde são inseridos novos blocos no sistema, com botão para anexar o manual em formato de pdf.
 
 
-## Tela de Serviços
+## Revisão de Blocos
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/Certificado.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/revis%C3%A3o%20de%20blocos.png"  height="300" width="600">
 
-Tela de emissão de certificado de curso, após a avaliação da prova pelo professor caso o aluno tenha obtido a nota mínima para passar, é disponibilizado um botão dentro da tela do curso para emissão do certificado.
+Tela onde é feita a revisão dos blocos, apontando o codelist específico o tipo de mudança e um resumo sobre oque conteve na mesma.
 
-## Tela de Manutenção de cursos
+## Cadastro de Traços
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Terceiro-API-2021-1/visualiza%C3%A7%C3%A3o%20professor.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20tra%C3%A7os.png"  height="300" width="600">
 
-Tela onde o professor ao acessar o curso que ministra, pode editar o conteúdo dele sendo adicionando mais conteúdo ou retirando conteúdo antigo. O professor possui uma área com a lista de todos os alunos do curso e ele pode tanto adicionar um novo aluno, quanto retirar um aluno de seu curso.
+Tela onde é feita a criação dos traços do sistema, podendo o usuário realizar uma pesquisa para encontrar os blocos e selecionar assim todos os blocos que participaram do traço específico.
+
+## Codelist
+
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/codelist.png"  height="300" width="600">
+
+Tela onde é exibido o codelist criado pela junção dos traços e blocos. 
 
 ## Tecnologias utilizadas
 
-1. Java
-2. HTML
-3. CSS
-4. JavaScript
-5. MySQL
-6. Bootstrap
+1. Java - Utilizado para fazer o back-end do sistema.
+2. HTML - Utilizado para fazer o front-end do sistema.
+3. CSS - Utilizado para fazer o front-end do sistema.
+4. JavaScript - Utilizado para adicionar algumas funcionalidades de back-end dentro do front-end do sistema.
+5. MySQL - Utilizado para fazer o controle de dados e para armazenar os manuais e usuários do sistema.
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Front-end do trabalho, atuei no Front-end junto de Wagner Kenji e Luiz Miguel, fizemos primeiro um esboço no figma do que seriam as telas e apresentamos para a NessHealth. Fomos fazendo o front-end com oque haviamos planejado no figma anteriormente portanto fizemos algums alterações que foram necessárias com o decorrer do projeto, alterações que solicitamos aprovação da NessHealth. Em relação as softskills desenvolvidas, desenvolvi bem minha empatia com os integrantes do grupo que tiveram algumas dificuldades durante as tasks que fizemos, minha autonomia foi desenvolvida bem pois tivemos alguns momentos de atraso e foi necessário que não nos atrasassemos, a comunicação do grupo foi fundamental para que conseguissemos alinhar tudo até o fim do projeto que foi um sucesso.
+Minha contribuição para o projeto foi na programação do Front-end do trabalho, atuei sozinho no front-end nesse projeto por conta da alta demanda e dificuldade dele, comecei com um esboço no figma do que seriam as telas e apresentamos para a Embraer. Fui fazendo o front-end com base no design feito e realizando alterações necessária conforme o projeto se encaminhava. Em relação as softskills desenvolvidas, desenvolvi bem minha empatia com os integrantes do grupo que tiveram alguns problemas durante o projeto, minha autonomia foi um ponto principal pois como os outros integrantes do grupo estavam todos focados no back-end precisei lidar com os problemas que surgiram, minha liderança nesse projeto foi algo fundamental nesse projeto, já que exerci a comunicação com o grupo alinhando os pontos do que precisávamos fazer para realizar as entregas, o projeto foi bem complicado do inicio ao fim e precisamos de uma entrega a mais para realizar a entrega total do projeto, mas no fim a entrega foi feita com sucesso.
 
 ## Hard Skills
 
-Visual Studio - Sei fazer com autonomia.
+Visual Studio - Sei usar com autonomia.
 
-IntelliJ - Sei fazer com autonomia.
+IntelliJ - Sei usar com autonomia.
 
 HTML - Sei fazer com autonomia.
 
@@ -77,7 +82,7 @@ CSS - Sei fazer com autonomia.
 
 JavaScript - Sei fazer com autonomia.
 
-Figma - Sei fazer com autonomia.
+Figma - Sei usar com autonomia.
 
 ## Soft Skills
 
@@ -86,6 +91,8 @@ Empatia;
 Comunicação;
 
 Criatividade;
+
+Liderança;
 
 Autonomia;
 
