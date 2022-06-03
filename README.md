@@ -59,9 +59,9 @@ Tela onde o professor ao acessar o curso que ministra, pode editar o conteúdo d
 1. Java - Utilizado para fazer o back-end do sistema.
 2. HTML - Utilizado para fazer o front-end do sistema.
 3. CSS - Utilizado para fazer o front-end do sistema.
-4. JavaScript - Utilizado para trazer funcionalidades ao front-end.
+4. JavaScript - Utilizado para trazer funcionalidades ao front-end do sistema.
 5. PostgreSQL - Utilizado para realizar o controle de dados do sistema.
-6. Bootstrap - Utilizado para trazer funcionalidades ao front-end.
+6. Bootstrap - Utilizado para trazer funcionalidades ao front-end do sistema.
 
 ## Contribuições Pessoais
 
