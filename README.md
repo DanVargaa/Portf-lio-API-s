@@ -3,7 +3,7 @@
 
 ## Empresa Parceira
 
-A Embraer é uma empresa brasileira multinacional voltada para aviação, empresa que tem grande reconhecimento por iniciar diversos projetos nessa área, sendo um deles uma nova linha de aeronaves sustentaveis, com planos de que até 2050 atinjam a meta de zero emissões líquidas de carbono até 2050.
+A Embraer é uma empresa brasileira multinacional voltada para aviação, que tem grande reconhecimento por iniciar diversos projetos nessa área e ser uma das principais empresas mundiais com contribuição na evolução do mercado de aeronaves, sendo um deles uma nova linha de aeronaves sustentaveis, com planos de que até 2050 atinjam a meta de zero emissões líquidas de carbono até 2050.
 
 ## Projeto
 
