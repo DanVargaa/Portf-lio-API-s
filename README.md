@@ -26,41 +26,41 @@ Github do Projeto: https://github.com/DanVargaa/Truck-in/
 
 ##  Tela Principal de Administrador
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Tela%20adm.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Tela%20adm.png" height="300" width="600">
 
 Ao fazer login com as credenciais de administrador, você é redirecionado para essa página. A partir dessa tela é possível fazer toda manutenção necessária em relação aos caminhoneiros, a suas viagens e a monitoração com base em buscas.
 
 ## Tela de Cadastro de trabalho
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Cadastro%20de%20trabalho.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Cadastro%20de%20trabalho.png" height="300" width="600">
 
 Tela onde administrador pode cadastrar um trabalho para determinado motorista, veículo e pacote. Podendo também definir um título que pode ser usado depois para consulta e o nome do local final.
 
 ## Tela de Menu do Caminhoneiro
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Menu%20usu%C3%A1rio.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Menu%20usu%C3%A1rio.png" height="300" width="600">
 
 Tela onde o caminhoneiro vai após login. Local onde ele fara a manutenção de seus serviços conforme os for recebendo da empresa e pode monitorar seus serviços ja feitos.
 
 ## Tela de Sessão de Trabalho
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Sess%C3%A3o%20de%20trabalho.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Sess%C3%A3o%20de%20trabalho.png" height="300" width="600">
 
 Tela onde será realizada a sessão de trabalha feita pelo caminhoneiro, ele irá colocar o horário que estará trabalhando, o horário de almoço e o fim de seu expediente levando em conta que cada hora a partir de 22h é contada como hora extra em vermelho.
 
 ## Tela de Serviços
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Servi%C3%A7o.png" height="600" width="1000">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Segundo-API-2020-2/Servi%C3%A7o.png" height="300" width="600">
 
 Tela onde o caminhoneiro pode ver os serviços enviados pela empresa, exibindo os principais dados localização, carga e o veículo que estará utilizando para realizar o transporte.
 
 ## Tecnologias utilizadas
 
-1. Java
-2. PostgreSQL
-3. HTML
-4. CSS
-5. JavaScript
+1. Java - Utilizado para fazer o back-end do sistema.
+2. PostgreSQL - Utilizado para realizar o controlde de dados do sistema.
+3. HTML - Utilizado para realizar o front-end do sistema.
+4. CSS - Utilizado para realizar o front-end do sistema.
+5. JavaScript - Utilizado para adicionar funcionalidades no front-end.
 
 ## Contribuições Pessoais
 
@@ -68,9 +68,9 @@ Minha contribuição para o projeto foi na programação do Front-end do trabalh
 
 ## Hard Skills
 
-Visual Studio - Sei fazer com autonomia.
+Visual Studio - Sei usar com autonomia.
 
-IntelliJ - Sei fazer com autonomia.
+IntelliJ - Sei usar com autonomia.
 
 HTML - Sei fazer com autonomia.
 
@@ -80,7 +80,7 @@ JavaScript - Sei fazer com autonomia.
 
 Java - Sei fazer com autonomia.
 
-Figma - Sei fazer com autonomia.
+Figma - Sei usar com autonomia.
 
 ## Soft Skills
 
