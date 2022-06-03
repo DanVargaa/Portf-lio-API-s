@@ -5,11 +5,9 @@
 
 A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um importante polo da indústria aeroespacial do Brasil.
 
-Nossa empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
+Em 2008, vários avanços aconteceram, como a implantação do Departamento de Pesquisa, Desenvolvimento & Inovação (P&D); a construção da unidade fabril; e o início do projeto de modernização do Radar Meteorológico.
 
-Certificada como Empresa Estratégica de Defesa (EED), a IACIT deposita seu conhecimento técnico e o desenvolvimento tecnológico em produtos e sistemas de alta tecnologia, no mais puro estado da arte.
-
-Estar entre as empresas nacionais que dominam a alta tecnologia é para a IACIT uma grande inspiração. Já são mais de 30 anos de experiência, que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. De lá para cá, nossa empresa é impulsionada pelos constantes esforços para ampliar nossas referências e conquistar novos mercados.
+Em 2021, um marco para a história da empresa: a inauguração, em parceria com o Centro Nacional de Monitoramento e Alertas de Desastres Naturais (Cemaden), unidade de pesquisa do Ministério da Ciência, Tecnologia e Inovações (MCTI), do Radar Meteorológico RMT 0200, primeiro banda S de dupla polarização em estado sólido fabricado no país. 
 
 ## Projeto
 
