@@ -1,7 +1,7 @@
 
 ## nLearning 2021-1 
 
-## Empresa 
+## Empresa Parceira
 
 A NessHealth é um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores
 
