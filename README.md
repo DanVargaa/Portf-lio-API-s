@@ -3,7 +3,7 @@
 
 ## Empresa Parceira
 
-A NessHealth é um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores
+A NessHealth é um grande laboratório de tecnologia e processos focado em resolver casos do mundo real. A NESS foi fundada em 1991, em um cenário de crise, oferecendo um serviço que tinha como principal diferencial  a resolução de problemas até então sem solução, em diversas indústrias. Uma empresa essencialmente orientada à inovar e transformar para resolver problemas e suportar transformações de diversos setores. 
 
 ## Projeto
 
