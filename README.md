@@ -7,92 +7,64 @@ A Embraer é uma empresa brasileira multinacional voltada para aviação, que te
 
 ## Projeto
 
-Projeto Solicitado pela empresa Embraer e realizado pelos alunos Edryan Maciel, Daniel Vargas, Kevin Melo e Luiz Miguel. 
+Projeto Solicitado pela empresa Embraer e realizado pelos alunos Rafael Furtado, Daniel Vargas, Bárbara dos Santos, Ana Clara, Anna Yukimi, Carolina Margiotti e Levi Alberto. 
 
-O projeto foi um tema proposto pela empresa Embraer foi relacionado a manuais de aeronaves, eles solicitaram uma aplicação web que contesse um painel para fosse possível realizar um controle dos manuais de aeronaves, sendo possivel fazer alterações nos manuais, exclusões e adicionar novos manuais, os manuais seriam controlados por um administrador e acessados pelos proprietários das aeronaves. 
+O projeto foi um tema proposto pela empresa Embraer foi relacionado a carros, o propósito do aplicativo era avisar os usuários do sistema quando houvesse alguma mudança ou atualizações nas peças do carro que o usuário possui.
 
-Para resolver o problema criamos uma aplicação web com uma interface de login para cliente e administrador, onde após entrarem no sistema seriam redirecionados para a aplicação. Dentro da aplicação o foco principal era o administrador, já que o cliente estaria apenas visualizando os dados. Em relação as funções do administrador temos a parte de blocos, traços e codelist, os blocos são a área que controla cada manual modificado e que possui uma lista de todas as versões dos manuais sendo possível também adicionar uma revisão com oque foi modificado, já os traços ele realiza uma organização de blocos de acordo com os padrões passados pela empresa, ele define uma classificação para os blocos que são agrupados em um traço específico, o codelist seria uma junção dos blocos com os traços ele apresenta a relação de bloco com traços, podendo tanto visualizar os documentos quanto apagar o bloco e traço específico.
+Para resolver o problema criamos uma aplicação mobile e uma aplicação web, a aplicação mobile era a que pertencia ao usuário, nela o usuário entraria com suas credenciais e teria já seu carro cadastrado em sua conta, ele poderia realizar pesquisas e verificar todas mudanças anteriores que ocorreram no modelo de seu carro e seria notificado com as novas mudanças, já na aplicação web ela seria voltada ao administrador o acesso também é realizado por um sistema de login e o administrador pode gerar relatórios no sistema referentes a quais usuários mais estão usando o aplicativo e a localização do usuário, porém para isso aplicamos as leis LGPD para que o usuário tenha que permitir a coleta desses dados.
 
 Github do Projeto: https://github.com/Salitop/HandbookPlane_4ADS-A
 
-##  Menu Inicial
+##  Busca de fols
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/menu%20inicial.png" height="300" width="600">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Busca%20por%20fols.jpeg" height="600" width="300">
 
-Ao acessar o menu inicial do aplicativo o administrador já iria se deparar com suas principais funções.
+Tela onde o usuário pode realizar a busca das fols do modelo de seu veículo.
 
-## Menu de Blocos
+## Resultado de pesquisa
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/menu%20de%20blocos.png"  height="300" width="600">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Fols%20encontradas.jpeg"  height="600" width="300">
 
-O menu de blocos seria a tela em que o usuário por sua vez poderia fazer a manutenção dos blocos do sistema, seja criando um bloco novo, realizando a revisão de um bloco que foi alterado ou tendo uma lista de todos blocos cadastrados.
+Após realizar uma pesquisa com os filtros disponibilizados o usuário pode acessar o documento para verificar as mudanças realizadas.
 
-## Menu de Traços
+## Gráficos por fols e atividade
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20tra%C3%A7os.png" height="300" width="600">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Grafico%20de%20fols.png" height="300" width="600">
 
-O menu de traços seria a tela em que o usuário por sua vez poderia fazer a manutenção dos traços do sistema, seja criando um traço novo, realizando a visualização dos traços, emitindo um relatório dos traços do sistema com filtros e podendo verificar o histórico dos traços modificados do sistema.
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Grafico%20de%20atividade.png"  height="300" width="600">
 
-## Cadastro de Blocos
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20blocos.png"  height="300" width="600">
-
-Tela onde são inseridos novos blocos no sistema, com botão para anexar o manual em formato de pdf.
-
-
-## Revisão de Blocos
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/revis%C3%A3o%20de%20blocos.png"  height="300" width="600">
-
-Tela onde é feita a revisão dos blocos, apontando o codelist específico o tipo de mudança e um resumo sobre oque conteve na mesma.
-
-## Cadastro de Traços
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/cria%C3%A7%C3%A3o%20de%20tra%C3%A7os.png"  height="300" width="600">
-
-Tela onde é feita a criação dos traços do sistema, podendo o usuário realizar uma pesquisa para encontrar os blocos e selecionar assim todos os blocos que participaram do traço específico.
-
-## Codelist
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quarto-API-2021-2/codelist.png"  height="300" width="600">
-
-Tela onde é exibido o codelist criado pela junção dos traços e blocos. 
+Gráficos gerados pelo administrador do sistema, podendo assim ver quais fols estão tendo mais acessos e a localização dos usuários que mais estão acessando as fols, lembrando que os usuários que são exibidos aceitaram os termos de uso.
 
 ## Tecnologias utilizadas
 
-1. Java - Utilizado para fazer o back-end do sistema.
-2. HTML - Utilizado para fazer o front-end do sistema.
-3. CSS - Utilizado para fazer o front-end do sistema.
-4. JavaScript - Utilizado para adicionar funcionalidades no front-end do sistema.
-5. MySQL - Utilizado para fazer o controle de dados e para armazenar os manuais e usuários do sistema.
+1. Python - Utilizado para fazer o back-end do sistema.
+2. TypeScript - Utilizado para fazer o back-end do sistema.
+3. React Native - Utilizado para fazer o front-end do sistema.
+4. HTML  - Utilizado para fazer o front-end do sistema.
+5. CSS  - Utilizado para fazer o front-end do sistema.
+6. MongoDB - Utilizado para fazer o controle de dados e para armazenar os manuais e usuários do sistema.
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Front-end do trabalho, atuei sozinho no front-end nesse projeto por conta da alta demanda e dificuldade dele, comecei com um esboço no figma do que seriam as telas e apresentamos para a Embraer. Fui fazendo o front-end com base no design feito e realizando alterações necessária conforme o projeto se encaminhava. Em relação as softskills desenvolvidas, desenvolvi bem minha empatia com os integrantes do grupo que tiveram alguns problemas durante o projeto, minha autonomia foi um ponto principal pois como os outros integrantes do grupo estavam todos focados no back-end precisei lidar com os problemas que surgiram, minha liderança nesse projeto foi algo fundamental nesse projeto, já que exerci a comunicação com o grupo alinhando os pontos do que precisávamos fazer para realizar as entregas, o projeto foi bem complicado do inicio ao fim e precisamos de uma entrega a mais para realizar a entrega total do projeto, mas no fim a entrega foi feita com sucesso.
+Minha contribuição para o projeto foi na programação do Front-end do trabalho, comecei com um esboço no figma junto com Anna Yukimi e Levi Alberto do que seriam as telas e apresentamos para a Embraer. As tasks referentes ao front-end foram dividas em blocos e designados aos membros do grupo, como estavamos trabalhando com React Native, fizemos os componentes das telas separados para que fossem juntados depois, auxiliei também na formação e implantação das leis LGPD nos termos de uso do usuário. Em relação as softskills desenvolvidas, minha autonomia e entrega de resultrados foram um ponto principal, pois como estavamos divindo as telas em pequenos componentes precisavamos que todos conseguissem realizar sua parte para juntarmos os componentes, a comunicação foi um ponto importante durante o desenvolvimento do projeto, pois tive alguns problemas ligados ao funcionamento do aplicativo por conta de mudanças relacionadas ao funcionamento do app, minha criatividade foi bem exercida no momento de criar as wireframes que foram apresentadas a embraer.
 
 ## Hard Skills
 
 Visual Studio - Sei usar com autonomia.
 
-IntelliJ - Sei usar com autonomia.
-
 HTML - Sei fazer com autonomia.
 
 CSS - Sei fazer com autonomia.
 
-JavaScript - Sei fazer com autonomia.
+ReactNative - Sei fazer com autonomia.
 
 Figma - Sei usar com autonomia.
 
 ## Soft Skills
 
-Empatia;
-
 Comunicação;
 
 Criatividade;
-
-Liderança;
 
 Autonomia;
 
