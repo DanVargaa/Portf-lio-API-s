@@ -43,6 +43,18 @@ No 2 semestre de curso, foi realizado uma aplicação web solicitada pela empres
 
 No 3 semestre de curso, foi realizado uma aplicação web solicitada pela empresa NessHealth. A aplicação tinha o tema voltado para ensino EAD criando uma plataforma onde fosse administrada pelos professores e que os alunos tivessem fácil acesso ao conteúdo e com um certificado no fim de seus cursos.
 
+### 2.4 Quarto Semestre
+
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Quarto-API-2021-2'> 4° Semestre 2021-2</a>
+
+No 4 semestre de curso, foi realizado uma aplicação web solicitada pela empresa Embraer. A aplicação tinha o tema voltado para controle de manuais de aeronaves, onde seria possível fazer a adição, edição e exclusão dos manuais, realizar revisões dos mesmos e também controle de versões. 
+
+### 2.5 Quinto Semestre
+
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Quinto-API-2022-1'> 5° Semestre 2022-1</a>
+
+No 5 semestre de curso, foi realizado uma aplicação mobile e uma web solicitada pela empresa Embraer. A aplicação tinha o tema voltado para atualizações nos veículos dos usuários, o usuário teria um modelo de carro cadastrado em sua conta e sempre que ocorresse uma mudança atualização no veículo seria notificado ao usuário, além do administrador poder realizar relatórios dos usuários que mais usam o aplicativo e de qual local é mais utilizado.
+
 ### 3. Contatos
 
 Linkedin : https://www.linkedin.com/in/daniel-vargas-8b806a184/
