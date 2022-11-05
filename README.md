@@ -15,23 +15,21 @@ Para resolver o problema precisariamos que nossa IA(Inteligência Artificial) id
 
 Github do Projeto: https://github.com/medrenan/SoyIA
 
-##  Busca de fols
+## Reconhecimento da IA
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Busca%20por%20fols.jpeg" height="600" width="300">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/reconhecimento-IA.png" height="600" width="300">
 
 Tela onde o usuário pode realizar a busca das fols do modelo de seu veículo.
 
-## Resultado de pesquisa
+## Modelo de imagem
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Fols%20encontradas.jpeg"  height="600" width="300">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/modal.png"  height="600" width="300">
 
 Após realizar uma pesquisa com os filtros disponibilizados o usuário pode acessar o documento para verificar as mudanças realizadas.
 
-## Gráficos por fols e atividade
+## Inserção da imagem no sistema
 
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Grafico%20de%20fols.png" height="300" width="600">
-
-<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Quinto-API-2022-1/Grafico%20de%20atividade.png"  height="300" width="600">
+<img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/insercao-imagem.gif" height="600" width="300">
 
 Gráficos gerados pelo administrador do sistema, podendo assim ver quais fols estão tendo mais acessos e a localização dos usuários que mais estão acessando as fols, lembrando que os usuários que são exibidos aceitaram os termos de uso.
 
