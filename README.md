@@ -19,28 +19,29 @@ Github do Projeto: https://github.com/medrenan/SoyIA
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/reconhecimento-IA.png" height="600" width="300">
 
-Tela onde o usuário pode realizar a busca das fols do modelo de seu veículo.
+Reconhecimento da IA sendo realizada em uma planta de soja inserida no sistema.
 
 ## Modelo de imagem
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/modal.png"  height="600" width="300">
 
-Após realizar uma pesquisa com os filtros disponibilizados o usuário pode acessar o documento para verificar as mudanças realizadas.
+Modelo de imagem exibido antes de inserir uma imagem na aplicação, para se ter como base a foto que será enviada da planta de soja.
 
 ## Inserção da imagem no sistema
 
 <img src="https://github.com/DanVargaa/Portfolio-APIs/blob/Sexto-API-2022-2/insercao-imagem.gif" height="600" width="300">
 
-Gráficos gerados pelo administrador do sistema, podendo assim ver quais fols estão tendo mais acessos e a localização dos usuários que mais estão acessando as fols, lembrando que os usuários que são exibidos aceitaram os termos de uso.
+Inserção da imagem na aplicação para que seja realizada a contagem das vagens para o agricultor.
 
 ## Tecnologias utilizadas
 
 1. Python - Utilizado para fazer o back-end do sistema.
 2. TypeScript - Utilizado para fazer o back-end do sistema.
-3. React Native - Utilizado para fazer o front-end do sistema.
-4. HTML  - Utilizado para fazer o front-end do sistema.
-5. CSS  - Utilizado para fazer o front-end do sistema.
-6. MongoDB - Utilizado para fazer o controle de dados e para armazenar os manuais e usuários do sistema.
+3. Nodejs  - Utilizado para fazer o back-end do sistema.
+4. Prisma  - Um ORM para node.js e typescript.
+5. React Native - Utilizado para fazer o front-end do sistema.
+6. Docker  - Virtualização do sistema para uso de "containers".
+7. Firebase - Utilizado para fazer o controle de dados.
 
 ## Contribuições Pessoais
 
