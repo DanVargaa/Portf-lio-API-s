@@ -1,19 +1,19 @@
 
-## Folconn 2022-1
+## SoyIA 2022-1
 
 ## Empresa Parceira
 
-A Embraer é uma empresa brasileira multinacional voltada para aviação, que tem grande reconhecimento por iniciar diversos projetos nessa área e ser uma das principais empresas mundiais com contribuição na evolução do mercado de aeronaves, sendo um deles uma nova linha de aeronaves sustentaveis, com planos de que até 2050 atinjam a meta de zero emissões líquidas de carbono até 2050.
+A Visiona é uma empresa brasileira voltada pro setor de tecnologia espacial ela é uma  joint-venture entre a Embraer Defesa & Segurança e a Telebras. A empresa foi a primeira a anunciar o primeiro satélite projetado integralmente pela indústria nacional o VCUB1, e concluiu com êxito o primeiro Sistema de Controle de Órbita e Atitude de satélites desenvolvido no Brasil. A Visiona também fornece produtos e serviços de Sensoriamento Remoto e Telecomunicações por satélite, bem como Aerolevantamento SAR nas Bandas X e P.
 
 ## Projeto
 
-Projeto Solicitado pela empresa Embraer e realizado pelos alunos Rafael Furtado, Daniel Vargas, Bárbara dos Santos, Ana Clara, Anna Yukimi, Carolina Margiotti e Levi Alberto. 
+Projeto Solicitado pela empresa Visiona e realizado pelos alunos Renan Medeiros, Daniel Vargas, Nicolas Cursino, Rafael Bettini, Raffael dos Santos, Carolina Margiotti, Cristian Matheus e Felipe Silva. 
 
-O projeto foi um tema proposto pela empresa Embraer foi relacionado a carros, o propósito do aplicativo era avisar os usuários do sistema quando houvesse alguma mudança ou atualizações nas peças do carro que o usuário possui.
+O projeto foi um tema proposto pela empresa Visiona foi relacionado ao setor agrônomico, eles passaram um aplicativo para utilizarmos como base e precisaríamos integrar um sistema de inteligência artificial.
 
-Para resolver o problema criamos uma aplicação mobile e uma aplicação web, a aplicação mobile era a que pertencia ao usuário, nela o usuário entraria com suas credenciais e teria já seu carro cadastrado em sua conta, ele poderia realizar pesquisas e verificar todas mudanças anteriores que ocorreram no modelo de seu carro e seria notificado com as novas mudanças, já na aplicação web ela seria voltada ao administrador o acesso também é realizado por um sistema de login e o administrador pode gerar relatórios no sistema referentes a quais usuários mais estão usando o aplicativo e a localização do usuário, porém para isso aplicamos as leis LGPD para que o usuário tenha que permitir a coleta desses dados.
+Para resolver o problema precisariamos que nossa IA(Inteligência Artificial) identificasse as vagens de uma planta de soja, para que dessa forma o agricultor que a plantou pudesse ter uma base de qual seria a colheita de sua safra, inserindo apenas uma foto da planta de soja para contagem.
 
-Github do Projeto: https://github.com/Salitop/HandbookPlane_4ADS-A
+Github do Projeto: https://github.com/medrenan/SoyIA
 
 ##  Busca de fols
 
