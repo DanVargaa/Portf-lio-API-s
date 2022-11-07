@@ -33,6 +33,10 @@ Modelo de imagem exibido antes de inserir uma imagem na aplicação, para se ter
 
 Inserção da imagem na aplicação para que seja realizada a contagem das vagens para o agricultor.
 
+## Correção de Bugs
+
+Dentre a realização do projeto, a Visiona realizou a solicitação da correção dos bugs presentes no aplicativo. Foram detectados bugs no back-end tanto quanto no front-end da aplicação, todos os bugs identificados foram corrigidos.
+
 ## Tecnologias utilizadas
 
 1. Python - Utilizado para fazer o back-end do sistema.
@@ -45,7 +49,7 @@ Inserção da imagem na aplicação para que seja realizada a contagem das vagen
 
 ## Contribuições Pessoais
 
-Minha contribuição para o projeto foi na programação do Front-end do trabalho, comecei com um esboço no figma junto com Anna Yukimi e Levi Alberto do que seriam as telas e apresentamos para a Embraer. As tasks referentes ao front-end foram dividas em blocos e designados aos membros do grupo, como estavamos trabalhando com React Native, fizemos os componentes das telas separados para que fossem juntados depois, auxiliei também na formação e implantação das leis LGPD nos termos de uso do usuário. Em relação as softskills desenvolvidas, minha autonomia e entrega de resultrados foram um ponto principal, pois como estavamos divindo as telas em pequenos componentes precisavamos que todos conseguissem realizar sua parte para juntarmos os componentes, a comunicação foi um ponto importante durante o desenvolvimento do projeto, pois tive alguns problemas ligados ao funcionamento do aplicativo por conta de mudanças relacionadas ao funcionamento do app, minha criatividade foi bem exercida no momento de criar as wireframes que foram apresentadas a embraer.
+Minha contribuição para o projeto foi na programação do Front-end do trabalho. As tasks referentes ao front-end foram dividas em blocos e designados aos membros do grupo, realizei algumas tarefas designadas a tradução automática da aplicação e na correção de bugs identificados no front-end, já no back-end auxiliei na criação de dicionários para os dados da inteligência artificial ser armazenada. Em relação as softskills desenvolvidas, minha organização e análise dos problemas foram meus pontos mais fortes, precisamos gerenciar bem as tarefas da equipe para que pudessemos realizar as entregas para Visiona e para isso foi necessário ter controle sobre como estavam indo as mudanças, em relação a análise ela foi importante para os momentos que surgiram novos problemas durante o desenvolvimento do projeto e para entender melhor as solicitações da Visiona, a comunicação foi um ponto importante durante o desenvolvimento do projeto, pois tive alguns problemas ligados ao funcionamento do aplicativo pois pegamos uma aplicação já pronta e essa boa comunicação foi necessária para alinhar a equipe durante todo projeto.
 
 ## Hard Skills
 
@@ -57,14 +61,12 @@ CSS - Sei fazer com autonomia.
 
 ReactNative - Sei fazer com autonomia.
 
-Figma - Sei usar com autonomia.
+Python - Sei fazer com ajuda.
 
 ## Soft Skills
 
 Comunicação;
 
-Criatividade;
+Análitico;
 
-Autonomia;
-
-Entrega de Resultados;
+Organização;
