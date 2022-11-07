@@ -55,6 +55,12 @@ No 4 semestre de curso, foi realizado uma aplicação web solicitada pela empres
 
 No 5 semestre de curso, foi realizado uma aplicação mobile e uma web solicitada pela empresa Embraer. A aplicação tinha o tema voltado para atualizações nos veículos dos usuários, o usuário teria um modelo de carro cadastrado em sua conta e sempre que ocorresse uma mudança atualização no veículo seria notificado ao usuário, além do administrador poder realizar relatórios dos usuários que mais usam o aplicativo e de qual local é mais utilizado.
 
+### 2.6 Sexto Semestre
+
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Quinto-API-2022-1'> 5° Semestre 2022-1</a>
+
+No 6 semestre de curso, foi realizado uma integração com inteligência artificial em um aplicativo já existente. A aplicação tinha o tema voltado para contagem de vagens de plantas de soja, o usuário insere uma imagem na aplicação e a inteligência artificial deve contabilizar as vagens presentas na planta de soja e realizar uma estimativa da quantidade que será colhida na safra.
+
 ### 3. Contatos
 
 Linkedin : https://www.linkedin.com/in/daniel-vargas-8b806a184/
