@@ -13,7 +13,7 @@ O projeto foi um tema proposto pela empresa Embraer foi relacionado a carros, o 
 
 Para resolver o problema criamos uma aplicação mobile e uma aplicação web, a aplicação mobile era a que pertencia ao usuário, nela o usuário entraria com suas credenciais e teria já seu carro cadastrado em sua conta, ele poderia realizar pesquisas e verificar todas mudanças anteriores que ocorreram no modelo de seu carro e seria notificado com as novas mudanças, já na aplicação web ela seria voltada ao administrador o acesso também é realizado por um sistema de login e o administrador pode gerar relatórios no sistema referentes a quais usuários mais estão usando o aplicativo e a localização do usuário, porém para isso aplicamos as leis LGPD para que o usuário tenha que permitir a coleta desses dados.
 
-Github do Projeto: https://github.com/Salitop/HandbookPlane_4ADS-A
+Github do Projeto: https://github.com/barbaraport/api-claradb
 
 ##  Busca de fols
 
