@@ -57,7 +57,7 @@ No 5 semestre de curso, foi realizado uma aplicação mobile e uma web solicitad
 
 ### 2.6 Sexto Semestre
 
-<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Quinto-API-2022-1'> 5° Semestre 2022-1</a>
+<a href='https://github.com/DanVargaa/Portfolio-APIs/tree/Sexto-API-2022-2'> 6° Semestre 2022-1</a>
 
 No 6 semestre de curso, foi realizado uma integração com inteligência artificial em um aplicativo já existente. A aplicação tinha o tema voltado para contagem de vagens de plantas de soja, o usuário insere uma imagem na aplicação e a inteligência artificial deve contabilizar as vagens presentas na planta de soja e realizar uma estimativa da quantidade que será colhida na safra.
 
